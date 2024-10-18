@@ -1,0 +1,4 @@
+asyncio
+requests
+websockets
+python-telegram-bot==20.0
